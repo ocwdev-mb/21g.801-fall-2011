@@ -1,0 +1,51 @@
+{
+  "term": "Fall",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "Portuguese"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ]
+  ],
+  "legacy_uid": "212e0f9e-2082-6553-e245-e19d204c1eeb",
+  "instructors": {
+    "content": [
+      "887ed2cd-affd-ce43-9ebc-c6d193b60af2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "653a3b6b-f1fe-2cf6-304b-29973e9c64a7",
+    "website": "21g-801-portuguese-i-fall-2011"
+  },
+  "course_title": "Portuguese I",
+  "course_description": "This course provides an introduction to the language and culture of the Portuguese-speaking world, with special attention to Brazilian Portuguese. This course focuses are on basic oral expression, listening comprehension, and elementary reading and writing. Students develop their vocabulary and understanding of grammatical concepts through active communication. This is a coordinated language lab program and is designed for students with no knowledge of Portuguese. Class is conducted entirely in Portuguese.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.851",
+  "primary_course_number": "21G.801",
+  "course_image_thumbnail": {
+    "content": "cfa5f031-63a0-1274-5795-456c67c80057",
+    "website": "21g-801-portuguese-i-fall-2011"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "302efb41-9a67-4f0b-81a5-42b8cae3190e",
+  "site_short_id": "21g.801-fall-2011",
+  "title": "Course Metadata"
+}
